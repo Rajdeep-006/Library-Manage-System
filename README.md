@@ -31,7 +31,7 @@ Before running the program, ensure you have the following installed:
 
 3. **Run the Program:**  
    Start the program by executing:  
-   `python library_management.py`  
+   `python Library_management_system.py`  
 
 ---
 
